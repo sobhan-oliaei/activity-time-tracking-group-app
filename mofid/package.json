@@ -1,0 +1,28 @@
+{
+  "name": "mofid",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@capacitor/android": "^5.6.0",
+    "@capacitor/cli": "^5.6.0",
+    "@capacitor/core": "^5.6.0",
+    "axios": "^1.6.0",
+    "next": "14.0.1",
+    "next-pwa": "^5.6.0",
+    "react": "^18",
+    "react-cookie": "^6.1.1",
+    "react-dom": "^18",
+    "react-multi-date-picker": "^4.4.1"
+  },
+  "devDependencies": {
+    "@capacitor/assets": "^3.0.4",
+    "eslint": "^8",
+    "eslint-config-next": "14.0.1"
+  }
+}

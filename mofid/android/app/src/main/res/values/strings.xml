@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">mofidshim</string>
+    <string name="title_activity_main">mofidshim</string>
+    <string name="package_name">ir.mofidshim.app</string>
+    <string name="custom_url_scheme">ir.mofidshim.app</string>
+</resources>
