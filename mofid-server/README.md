@@ -1,3 +1,6 @@
+> [!WARNING]
+> Currently, you have to do it manually to create the required "mysql" database, but the database creation file will be added soon.
+
 # Getting Started with express.js in nodejs
 
 This project was bootstrapped with [express](https://github.com/expressjs/express/).
